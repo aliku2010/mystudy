@@ -1,0 +1,43 @@
+/*表格标题*/
+.tabletitle
+{
+    font-family: "黑体";
+    font-size: 20px;
+    color: #000;
+}
+/*表格子标题*/
+.tablesub1
+{
+    font-family: "黑体";
+    font-size: 14px;
+    color: midnightblue;
+    background-color: darkgray ;
+}
+/*表格单元1*/
+.td1
+{
+   text-align: right;
+    font-size: 14px;
+}
+/*表格单元2*/
+.td2
+{
+    color: blue;
+    font-size: 14px;
+}
+.td3
+{
+    font-size: 20px;
+    font-family: "黑体";
+}
+.td4
+{
+    font-family: "黑体";
+    font-size: 16px;
+    color: black;
+}
+/*星号*/
+.star
+{
+    color: red;
+}
