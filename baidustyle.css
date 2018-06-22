@@ -1,0 +1,77 @@
+.header
+{
+    float: right;
+}
+.mMenu
+{
+    display: inline-block;
+    margin: 8px;
+
+}
+.mornbutton
+{
+    background-color: dodgerblue;
+    color: white;
+    border: 0px;
+}
+
+.subflex {
+    display: flex;
+    flex-direction:column;
+}
+
+.subflex div {
+    width: 40px;
+    height: 40px;
+}
+
+.logopic
+{
+    width: 350px;
+    height: 170px;
+}
+.seach
+{
+    width: 540px;
+    height: 36px;
+    float: right;
+}
+.seachkey
+{
+    width: 540px;
+    height: 36px;
+    font-size: 25px;
+    float: right;
+}
+.seachbottom
+{
+    float: right;
+    margin: -42px -100px 0px 0px;
+    border: 0px;
+    width: 100px;
+    height: 42px;
+    background-color: royalblue;
+    color: white;
+
+}
+.twoma
+{
+    float: bottom;
+    width: 80px;
+    height: 80px;
+    margin: 200px 90px;
+}
+.footer
+ {
+    float: bottom;
+    width: 500px;
+    margin: 400px 560px 100px;
+ }
+.owner
+{
+    float: bottom;
+    width: 800px;
+    size: 1px;
+    color: gray;
+    margin: -70px 400px 50px 400px;
+}
