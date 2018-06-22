@@ -4,33 +4,73 @@
     height: 300px;
     background-color: steelblue;
 }
-.smallbox
+.box2
+{
+    float: top;
+    width: 300px;
+    height: 300px;
+    background-color: darkgreen;
+}
+.smallbox1
 {
     width: 100px;
     height: 100px;
     background-color: midnightblue;
 }
-
-.box1 .top
+.smallbox2
+{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
+.box1 .top1
 {
     float: top;
     margin: 0px 100px;
 }
 
-.box1 .left
+.box1 .left1
 {
     float: left;
  }
-.box1 .middle
+.box1 .middle1
 {
     float: left;
 }
-.box1 .right
+.box1 .right1
 {
     float: left;
 }
-.box1 .bottom
+.box1 .bottom1
 {
     float: bottom;
     margin: 100px 100px;
+}
+
+.box2 .top2
+{
+    position: absolute;
+    margin: 0px 100px;
+}
+
+.box2 .left2
+{
+    position: absolute;
+    margin: 100px 0px;
+    /*top: 100px;*/
+}
+.box2 .middle2
+{
+    position: absolute;
+    margin: 100px 100px;
+}
+.box2 .right2
+{
+    position: absolute;
+    margin: 100px 200px;
+}
+.box2 .bottom2
+{
+    position: absolute;
+    margin: 200px 100px;
 }
